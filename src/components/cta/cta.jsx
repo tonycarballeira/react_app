@@ -1,12 +1,12 @@
 import React from 'react';
 import './cta.css';
 
-const article = () => {
+const CTA = () => {
   return (
     <div>
-      Article
+      CTA
     </div>
   )
 }
 
-export default article
+export default CTA
